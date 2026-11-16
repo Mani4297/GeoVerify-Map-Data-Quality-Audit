@@ -42,3 +42,6 @@ Provides an overview of the project, tools and activities.
 
 ## Project Limitations
 This is an independent learning and demonstration project. Some spreadsheet records are fictional training examples. It is not an official Wipro project or production mapping system.
+## Google Sheets Project
+
+[Open GeoVerify – Data Quality Audit](https://docs.google.com/spreadsheets/d/1lFWrqCghsOqybFGCp_XVzZjRbAHeN-EQVWBWaWXf5ag/edit?usp=sharing)
